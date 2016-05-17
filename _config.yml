@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: whitesidescr@gmail.com
 copyright_name: crwhitesides
 description: > # this means to ignore newlines until "baseurl:"
-  The intricacies of code that make programming delightful. 
+  One line at a time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: crwhitesides
 github_username:  crwhitesides
