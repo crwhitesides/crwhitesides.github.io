@@ -15,7 +15,6 @@ Like many out there, I wasn't entirely sure how to begin the process of building
 #### Resources:
 
 * Watch walkthrough of Avi building the `daily-deal` gem: https://www.youtube.com/watch?v=_lDExWIhYKI
-
 * Peruse the repositories of the [`playing-now`](https://github.com/learn-co-curriculum/now-playing-cli-gem) and [`worlds best restaurants`](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem) gems
 
 
@@ -25,7 +24,6 @@ Throughout the video walkthrough, Avi briefly scans a [rubygem.org](https://ruby
 #### Resources:
 
 * Read the following four guides: [RUBYGEMS BASICS](http://guides.rubygems.org/rubygems-basics/), [WHAT IS A GEM?](http://guides.rubygems.org/what-is-a-gem/), [MAKE YOUR OWN GEM](http://guides.rubygems.org/make-your-own-gem/), and [PUBLISHING YOUR GEM](http://guides.rubygems.org/publishing/).
-
 * Go through the process of building the gem in the Make Your Own Gem guide. The gem I built was [`hola_crwhitesides`](https://github.com/crwhitesides/hola_crwhitesides).
 
 
@@ -38,7 +36,6 @@ Finally, after building and publishing the `hola-crwhitesides` and `how-fast` ge
 #### Resources:
 
 * [Nokogiri cheat sheet](https://github.com/sparklemotion/nokogiri/wiki/Cheat-sheet)
-
 * [Nokogiri tutorials](http://www.nokogiri.org/)
 
 
