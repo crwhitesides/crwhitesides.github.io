@@ -10,7 +10,6 @@ Today I completed a working version of my `crowd-forecast` gem. Disneyland, Lego
 
 
 ## Where to begin?
-
 Like many out there, I wasn't entirely sure how to begin the process of building a RubyGem. Scraping wasn't terribly intimidating. But bringing it all together into one application sounded daunting. Luckily, the lesson provides some examples and a video walkthrough of Avi making a CLI gem. So, that's where I started. 
 
 #### Resources:
@@ -20,7 +19,6 @@ Like many out there, I wasn't entirely sure how to begin the process of building
 
 
 ## RubyGems 101
-
 Throughout the video walkthrough, Avi briefly scans a [rubygem.org](https://rubygems.org/) guide titled Make Your Own Gem . The likelihood of publishing my gem to [rubygems.org](https://rubygems.org/) was high, so I decided to spend time reading some of their guides and going through their walkthroughs. 
 
 #### Resources:
@@ -30,11 +28,9 @@ Throughout the video walkthrough, Avi briefly scans a [rubygem.org](https://ruby
 
 
 ## Shiny object
-
 Upon completing the `hola-crwhitesides` gem, I found out that Netflix had launched [fast.com](https://fast.com/). This website allows anyone to easily check their download speed. The functionality of the site seemed simple and I, therefore, concluded I could create a CLI gem that would show people their download speeds. Well, this took longer than anticipated. It turns out that Nokogiri is great for parsing HTML, but parsing HTML+Javascript is a bit more complicated. Anyways, as I moved forward with this side project, I became acquainted with [Capybara](https://github.com/jnicklas/capybara), [Poltergeist](https://github.com/teampoltergeist/poltergeist) and [PhantomJS](http://phantomjs.org/). Ultimately, these tools allowed me to complete a working version of the [`how-fast`](https://github.com/crwhitesides/how-fast-cli-gem) CLI gem. 
 
 ## Look, Ma, no hands!
-
 Finally, after building and publishing the `hola-crwhitesides` and `how-fast` gems, I felt pretty good about actually making a RubyGem that met the specifications of the project. Without further ado, I present to you the [`crowd-forecast`](https://github.com/crwhitesides/crowd-forecast-cli-gem) CLI gem. The main challenge of this gem was the investigative work involved in scraping. However, Nokogiri's documentation and Pry proved an effective combination in overcoming any issues.
 
 #### Resources:
