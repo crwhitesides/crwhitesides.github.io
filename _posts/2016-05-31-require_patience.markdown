@@ -18,6 +18,7 @@ Like many out there, I wasn't entirely sure how to begin the process of building
 * Peruse the repositories of the [`playing-now`](https://github.com/learn-co-curriculum/now-playing-cli-gem) and [`worlds best restaurants`](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem) gems
 
 
+
 ## RubyGems 101
 Throughout the video walkthrough, Avi briefly scans a [rubygem.org](https://rubygems.org/) guide titled Make Your Own Gem . The likelihood of publishing my gem to [rubygems.org](https://rubygems.org/) was high, so I decided to spend time reading some of their guides and going through their walkthroughs. 
 
@@ -25,6 +26,7 @@ Throughout the video walkthrough, Avi briefly scans a [rubygem.org](https://ruby
 
 * Read the following four guides: [RUBYGEMS BASICS](http://guides.rubygems.org/rubygems-basics/), [WHAT IS A GEM?](http://guides.rubygems.org/what-is-a-gem/), [MAKE YOUR OWN GEM](http://guides.rubygems.org/make-your-own-gem/), and [PUBLISHING YOUR GEM](http://guides.rubygems.org/publishing/).
 * Go through the process of building the gem in the Make Your Own Gem guide. The gem I built was [`hola_crwhitesides`](https://github.com/crwhitesides/hola_crwhitesides).
+
 
 
 ## Shiny object
