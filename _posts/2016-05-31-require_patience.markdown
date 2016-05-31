@@ -13,6 +13,7 @@ Today I completed a working version of my `crowd-forecast` gem. Disneyland, Lego
 Like many out there, I wasn't entirely sure how to begin the process of building a RubyGem. Scraping wasn't terribly intimidating. But bringing it all together into one application sounded daunting. Luckily, the lesson provides some examples and a video walkthrough of Avi making a CLI gem. So, that's where I started. 
 
 Resources:
+
 * Watch walkthrough of Avi building the `daily-deal` gem: https://www.youtube.com/watch?v=_lDExWIhYKI
 
 * Peruse the repositories of the [`playing-now`](https://github.com/learn-co-curriculum/now-playing-cli-gem) and [`worlds best restaurants`](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem) gems
