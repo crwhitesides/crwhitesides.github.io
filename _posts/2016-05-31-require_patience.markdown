@@ -36,7 +36,7 @@ Today I completed a working version of my `crowd-forecast` gem. Disneyland, Lego
 
 
 
-*[Fyi, all bullets and most of the gem names in the post are links to the resources and the respective respositories of the gems. Upon publishing that isn't entirely obvious.]*
+*[Fyi, all bullets and most of the gem names in the post include links to the resources and the respective respositories of the gems.]*
 
 
 
