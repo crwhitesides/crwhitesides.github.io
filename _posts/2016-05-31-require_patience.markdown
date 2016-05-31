@@ -12,7 +12,7 @@ Today I completed a working version of my `crowd-forecast` gem. Disneyland, Lego
 ## Where to begin?
 Like many out there, I wasn't entirely sure how to begin the process of building a RubyGem. Scraping wasn't terribly intimidating. But bringing it all together into one application sounded daunting. Luckily, the lesson provides some examples and a video walkthrough of Avi making a CLI gem. So, that's where I started. 
 
-## Resources:
+#### Resources:
 
 * Watch walkthrough of Avi building the `daily-deal` gem: https://www.youtube.com/watch?v=_lDExWIhYKI
 
@@ -22,8 +22,10 @@ Like many out there, I wasn't entirely sure how to begin the process of building
 ## RubyGems 101
 Throughout the video walkthrough, Avi briefly scans a [rubygem.org](https://rubygems.org/) guide titled Make Your Own Gem . The likelihood of publishing my gem to [rubygems.org](https://rubygems.org/) was high, so I decided to spend time reading some of their guides and going through their walkthroughs. 
 
-Resources:
+#### Resources:
+
 * Read the following four guides: [RUBYGEMS BASICS](http://guides.rubygems.org/rubygems-basics/), [WHAT IS A GEM?](http://guides.rubygems.org/what-is-a-gem/), [MAKE YOUR OWN GEM](http://guides.rubygems.org/make-your-own-gem/), and [PUBLISHING YOUR GEM](http://guides.rubygems.org/publishing/).
+
 * Go through the process of building the gem in the Make Your Own Gem guide. The gem I built was [`hola_crwhitesides`](https://github.com/crwhitesides/hola_crwhitesides).
 
 
@@ -33,8 +35,10 @@ Upon completing the `hola-crwhitesides` gem, I found out that Netflix had launch
 ## Look, Ma, no hands!
 Finally, after building and publishing the `hola-crwhitesides` and `how-fast` gems, I felt pretty good about actually making a RubyGem that met the specifications of the project. Without further ado, I present to you the [`crowd-forecast`](https://github.com/crwhitesides/crowd-forecast-cli-gem) CLI gem. The main challenge of this gem was the investigative work involved in scraping. However, Nokogiri's documentation and Pry proved an effective combination in overcoming any issues.
 
-Resources:
+#### Resources:
+
 * [Nokogiri cheat sheet](https://github.com/sparklemotion/nokogiri/wiki/Cheat-sheet)
+
 * [Nokogiri tutorials](http://www.nokogiri.org/)
 
 
