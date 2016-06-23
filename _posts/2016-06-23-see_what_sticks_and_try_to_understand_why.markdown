@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "See what sticks (and try to understand why)"
-date:   2016-06-23 21:37:20 +0000
+date:   2016-06-23 17:37:20 -0400
 ---
 
 Anyone who has spent any time in a kitchen has, at some point, flung a noodle at a wall in an attempt to determine whether the pasta is ready. If the noodle doesn't stick, just try again in a few minutes...because eventually it will stick! Why does the noodle stick? I don't know. Who cares. What matters is that I eventually get to a point where I can eat my pasta. The same process can be applied to all Learn.co labs, since each lab has tests that ultimately determine whether we've successfully completed a lesson or not. Since I'm already talking about spaghetti, I'll use a spaghetti analogy to describe how tests can become an unhealthy dependecy.
 
 **Possible recipe for completing labs: **
+
 1. Fork and clone the lab (get the pot of water boiling) and try to understand what is expected (review the recipe)
 2. Start writing code and work on it until you *hope* it's right (put pasta in the pot)
 3. Fling code at the tests to see if it passes (fling noodle at wall and see if it sticks)
