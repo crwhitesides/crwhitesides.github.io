@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "RailsCasts"
-date:   2016-07-27 23:50:25 +0000
+title:  "The beauty of screencasts"
+date:   2016-07-27 19:50:25 -0400
 ---
 
 
