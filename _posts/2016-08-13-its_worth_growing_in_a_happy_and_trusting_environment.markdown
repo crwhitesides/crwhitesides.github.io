@@ -20,3 +20,6 @@ date:   2016-08-13 17:38:43 -0400
 > "Ruby on Rails is an environment for chefs and those who wish to become chefs. You might start out doing the dishes, but you can work your way up to running the kitchen. Don’t let anyone tell you that you can’t be trusted with the best tool in the trade as part of that journey."
 
 
+I don't know about you, but this framework sounds like a wonderful place to work and grow.
+
+
