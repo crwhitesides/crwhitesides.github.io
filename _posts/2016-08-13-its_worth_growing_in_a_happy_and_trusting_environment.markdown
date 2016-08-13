@@ -12,6 +12,7 @@ date:   2016-08-13 17:38:43 -0400
 > 
 > "So thus we conclude: Optimizing for happiness is perhaps the most formative key to Ruby on Rails. It shall remain such going forward."
 
+
 ## Trust
 
 >  "The language and the framework should be patient tutors willing to help and guide anyone to experthood. While recognizing that the only reliable course there goes through the land of mistakes: Tools used wrong, a bit of blood, sweat, and perhaps even some tears. There simply is no other way.
